@@ -19,10 +19,11 @@ public class Main {
             System.out.println(" - " + g);
         }
 
-        System.out.println("\n2. Топ-2 игры в жанре RPG:");
-        for (Game g : analytics.getTopInGenre("RPG", 2)) {
+        System.out.println("\n2. Топ-2 игры в жанре Ролевая:");
+        for (Game g : analytics.getTopInGenre("Ролевая", 2)) {
             System.out.println(" - " + g);
         }
+
 
         System.out.println("\n3. Статистика по жанрам:");
         for (Map.Entry<String, Integer> entry : analytics.getGenreStatistics().entrySet()) {
