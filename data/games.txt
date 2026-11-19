@@ -1,0 +1,10 @@
+Carcassonne;Strategy;2;5;8.0
+7 Wonders;Strategy;2;7;8.9
+БИТАЯ_СТРОКА;ОШИБКА_ФОРМАТА
+Catan;Strategy;3;4;7.1
+Gloomhaven;RPG;1;4;9.3
+Mage Knight;RPG;1;4;8.7
+Dungeons & Dragons;RPG;2;6;9.5
+Alias;Party;4;12;6.8
+Dixit;Party;3;6;7.8
+Uno;Party;2;10;6.5
